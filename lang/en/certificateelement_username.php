@@ -25,4 +25,4 @@
 $string['pluginname'] = 'Username';
 $string['privacy:metadata'] = 'The Username plugin does not store any personal data.';
 $string['userfield'] = 'Username';
-$string['userfield_help'] = 'Username';
+$string['userfield_help'] = 'The username that will be displayed on the PDF.';
